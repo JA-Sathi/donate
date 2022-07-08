@@ -1,0 +1,54 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+#header{
+    background-image: url(donation6.jpg);
+   
+}
+/* mid section css */
+.help-section {
+    padding-bottom: 10px;
+    margin-bottom: 50px;
+}
+.help-h1 {
+    font-size:40px;
+    text-align: center;
+}
+.help-div{
+    display: flex;
+    
+}
+.Food{
+    background-color:#FFBCBC;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 10px;
+    width: 30%;
+    text-align: justify;
+}
+.shelter {
+    background-color:aqua;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 10px;
+    width: 30%;
+    text-align: justify;
+}
+.education {
+    background-color: #FFBCBC;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 10px;
+    width: 30%;
+    text-align: justify;
+}
+.help-image {
+    height: 100px;
+    width: 100px;
+}
+.footer-link {
+    text-decoration: none;
+}
